@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.g1{
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+.t1{
+    color: rgb(214, 102, 102);
+    margin-left: 30%;
+    margin-top: 50px;
+    width: 50%;
+    height: 60%;
+    font-weight: 700px;
+    font-size: 50px;
+}
+.g1 img{
+    border: 1px solid brown;
+}
+.p1{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.s1{
+    color: brown;
+}
